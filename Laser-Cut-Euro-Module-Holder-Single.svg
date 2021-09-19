@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg17843"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   sodipodi:docname="Laser-Cut-Euro-Module-Holder-Single.svg">
+  <defs
+     id="defs17837" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1989438"
+     inkscape:cx="235.05518"
+     inkscape:cy="378.19795"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1414"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata17840">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g19753"
+       transform="translate(0,49.096578)">
+      <g
+         id="g19737"
+         transform="translate(-60.289577,-12.170821)">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-opacity:1"
+           id="rect18406-8-4-6"
+           width="24.9"
+           height="49.899998"
+           x="124.20094"
+           y="-190.23958"
+           transform="rotate(90)" />
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-opacity:1"
+           id="rect18406-6-6-6-4"
+           width="44.900002"
+           height="64.900002"
+           x="114.20094"
+           y="-197.73958"
+           transform="rotate(90)" />
+        <ellipse
+           style="fill:none;stroke:#000000;stroke-width:0.0999992;stroke-opacity:1"
+           id="path18452-1-0-8"
+           cx="119.15093"
+           cy="-192.78958"
+           rx="1.7000003"
+           ry="1.7000004"
+           transform="rotate(90)" />
+        <ellipse
+           style="fill:none;stroke:#000000;stroke-width:0.0999992;stroke-opacity:1"
+           id="path18452-0-1-0-9"
+           cx="119.15093"
+           cy="-137.78958"
+           rx="1.7000004"
+           ry="1.7000003"
+           transform="rotate(90)" />
+        <ellipse
+           style="fill:none;stroke:#000000;stroke-width:0.0999992;stroke-opacity:1"
+           id="path18452-0-8-10-4-7"
+           cx="154.10092"
+           cy="-192.73958"
+           rx="1.7000003"
+           ry="1.7000004"
+           transform="rotate(90)" />
+        <ellipse
+           style="fill:none;stroke:#000000;stroke-width:0.0999992;stroke-opacity:1"
+           id="path18452-0-8-4-7-7-5"
+           cx="154.10092"
+           cy="-137.83957"
+           rx="1.7000003"
+           ry="1.7000004"
+           transform="rotate(90)" />
+      </g>
+      <g
+         id="g19729"
+         transform="translate(-61.336315)">
+        <ellipse
+           style="fill:none;stroke:#000000;stroke-width:0.0999992;stroke-opacity:1"
+           id="path18452-0-8-4-7"
+           cx="91.776726"
+           cy="-138.88632"
+           rx="1.7000003"
+           ry="1.7000004"
+           transform="rotate(90)" />
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-opacity:1"
+           id="rect18406-8"
+           width="24.9"
+           height="44.900002"
+           x="61.87672"
+           y="-188.78632"
+           transform="rotate(90)" />
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-opacity:1"
+           id="rect18406-6-6"
+           width="44.900002"
+           height="64.900002"
+           x="51.87672"
+           y="-198.78632"
+           transform="rotate(90)" />
+        <ellipse
+           style="fill:none;stroke:#000000;stroke-width:0.0999992;stroke-opacity:1"
+           id="path18452-1"
+           cx="56.826721"
+           cy="-193.83632"
+           rx="1.7000003"
+           ry="1.7000004"
+           transform="rotate(90)" />
+        <ellipse
+           style="fill:none;stroke:#000000;stroke-width:0.0999992;stroke-opacity:1"
+           id="path18452-0-1"
+           cx="56.826721"
+           cy="-138.83633"
+           rx="1.7000004"
+           ry="1.7000003"
+           transform="rotate(90)" />
+        <ellipse
+           style="fill:none;stroke:#000000;stroke-width:0.0999992;stroke-opacity:1"
+           id="path18452-0-8-10"
+           cx="91.776726"
+           cy="-193.78632"
+           rx="1.7000003"
+           ry="1.7000004"
+           transform="rotate(90)" />
+      </g>
+    </g>
+  </g>
+</svg>
